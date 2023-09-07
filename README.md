@@ -1,6 +1,6 @@
 **Manifiesto de Objetivos y visión de la Comunidad "AI4Devs La Plata"**
 
-En la ciudad de La Plata, nos encontramos en medio de una revolución tecnológica impulsada por la inteligencia artificial (IA). Estamos convencidos de que la colaboración y el intercambio de conocimientos son fundamentales para impulsar el crecimiento y la innovación en este campo. Los miembros de la comunidad "AI for Devs La Plata," nos enfocamos en promover el uso y la colaboración en la divulgación de herramientas de IA para desarrolladores en nuestra ciudad. Este manifiesto establece nuestros objetivos y visión:
+En la ciudad de La Plata, nos encontramos en medio de una revolución tecnológica impulsada por la inteligencia artificial (IA). Estamos convencidos de que la colaboración y el intercambio de conocimientos son fundamentales para impulsar el crecimiento y la innovación en este campo. Los miembros de la comunidad AI4Devs La Plata, nos enfocamos en promover el uso y la colaboración en la divulgación de herramientas de IA para desarrolladores en nuestra ciudad. Este manifiesto establece nuestros objetivos y visión:
 
 **1. Fomentar la Comunidad y la Colaboración:**
 
